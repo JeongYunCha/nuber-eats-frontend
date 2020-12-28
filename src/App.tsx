@@ -1,12 +1,9 @@
 import React from "react";
 import logo from "./logo.svg";
+import { LoggedOutRouter } from "./routers/logged-out-router";
 
 function App() {
-  return (
-    <div className="App">
-      <h1>Hello</h1>
-    </div>
-  );
+  return <LoggedOutRouter />;
 }
 
 export default App;

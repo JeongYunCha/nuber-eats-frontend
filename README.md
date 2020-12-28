@@ -22,3 +22,5 @@ The Frontend of Nuber Eats Clone
 
    - [Apollo](https://www.apollographql.com/docs/react) Setup
      - Chrome Extension 설치: `Apollo Client Developer Tools`
+   - React Router Dom Setup
+     - 패키지 설치: `npm install react-router-dom`
